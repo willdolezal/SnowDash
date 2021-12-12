@@ -1,0 +1,570 @@
+1   49 DEGREES NORTH MTN. RESORT  -  Washington ,  United States\
+2   AFTON ALPS SKI AREA  -  Minnesota ,  United States\
+5   ALPINE MEADOWS SKI RESORT  -  California ,  United States\
+6   ALPINE MOUNTAIN SKI AREA  -  Pennsylvania ,  United States\
+7   ALPINE VALLEY SKI AREA  -  Ohio ,  United States\
+8   ALPINE  VALLEY RESORT  -  Wisconsin ,  United States\
+9   ALPINE VALLEY SKI & SUMMER RESORT  -  Michigan ,  United States\
+10   ALTA SKI AREA  -  Utah ,  United States\
+11   ALYESKA RESORT  -  Alaska ,  United States\
+12   AMERICAN SNOW KING  -  Wyoming ,  United States\
+13   ANDES TOWER HILLS  -  Minnesota ,  United States\
+14   ANGEL FIRE RESORT  -  New Mexico ,  United States\
+16   ANTHONY LAKES MOUNTAIN RESORT  -  Oregon ,  United States\
+17   Apex Mountian Resort (1997) Ltd.  -  British Columbia ,  Canada\
+18   APPALACHIAN SKI MOUNTAIN  -  North Carolina ,  United States\
+19   APPLE MOUNTAIN SKI AREA  -  Michigan ,  United States\
+20   ARAPAHOE BASIN  -  Colorado ,  United States\
+21   ARIZONA SNOWBOWL  -  Arizona ,  United States\
+23   ASCUTNEY MOUNTAIN RESORT  -  Vermont ,  United States\
+24   HIGHLANDS  -  Colorado ,  United States\
+25   Aspen / Snowmass  -  Colorado ,  United States\
+27   ATTITASH BEAR PEAK  -  New Hampshire ,  United States\
+29   Yosemite Ski & Snowboard Area  -  California ,  United States\
+31   BALSAM'S WILDERNESS XC  -  New Hampshire ,  United States\
+33   BEAR CREEK SKI AREA  -  Pennsylvania ,  United States\
+34   BEAR VALLEY XC  -  California ,  United States\
+36   BEAVER CREEK RESORT  -  Colorado ,  United States\
+37   BEAVER MOUNTAIN SKI AREA  -  Utah ,  United States\
+38   BELLEAYRE MOUNTAIN SKI CENTER  -  New York ,  United States\
+40   Berkshire East  -  Massachusetts ,  United States\
+43   Snow Summit Ski Corp.  -  California ,  United States\
+44   JFBB Ski Area Inc  -  Pennsylvania ,  United States\
+46   Whitefish Mountain Resort  -  Montana ,  United States\
+47   BIG POWDERHORN MT.  -  Michigan ,  United States\
+48   BIG SKY RESORT  -  Montana ,  United States\
+50   BIG WHITE SKI RESORT  -  British Columbia ,  Canada\
+52   BITTERSWEET SKI AREA  -  Michigan ,  United States\
+54   BLACK MOUNTAIN SKI AREA  -  New Hampshire ,  United States\
+55   Big Snow Resort - Blackjack  -  Michigan ,  United States\
+56   BLACKTAIL MOUNTAIN SKI AREA  -  Montana ,  United States\
+58   Ski Blandford  -  Massachusetts ,  United States\
+59   BLUE KNOB RECREATION  -  Pennsylvania ,  United States\
+61   Intrawest  -  Ontario ,  Canada\
+62   Blue Mountain Resort  -  Pennsylvania ,  United States\
+63   BLUEWOOD  -  Washington ,  United States\
+65   BOGUS BASIN SKI RESORT  -  Idaho ,  United States\
+66   BOLTON VALLEY RESORT  -  Vermont ,  United States\
+67   BOREAL MOUNTAIN PLAYGROUND  -  California ,  United States\
+69   BOSTON MILLS  -  Ohio ,  United States\
+70   BOUSQUET SKI AREA  -  Massachusetts ,  United States\
+72   BOYNE MOUNTAIN RESORT  -  Michigan ,  United States\
+73   BOYNE USA  -  Michigan ,  United States\
+74   BRADFORD SKI AREA  -  Massachusetts ,  United States\
+75   Brandywine  -  Ohio ,  United States\
+76   Brantling Ski  -  New York ,  United States\
+77   BRECKENRIDGE SKI RESORT  -  Colorado ,  United States\
+78   Mount Washington Resort  -  New Hampshire ,  United States\
+80   BRIAN HEAD RESORT  -  Utah ,  United States\
+81   BRIDGER BOWL SKI AREA  -  Montana ,  United States\
+82   BRIGHTON SKI RESORT  -  Utah ,  United States\
+83   BRISTOL MOUNTAIN SKI AREA  -  New York ,  United States\
+85   BROMLEY MOUNTAIN SKI AREA  -  Vermont ,  United States\
+86   SkiBromont.com  -  Quebec ,  Canada\
+87   BRUNDAGE MOUNTAIN RESORT  -  Idaho ,  United States\
+88   BRYCE MOUNTAIN SKI AREA  -  Virginia ,  United States\
+89   BUCK HILL  -  Minnesota ,  United States\
+90   BUENA VISTA SKI AREA  -  Minnesota ,  United States\
+91   Burke Mountain  -  Vermont ,  United States\
+92   BUTTERMILK MOUNTAIN  -  SnowVentures Ski & Snowboard Vacations ,  United States\
+93   BUTTERNUT BASIN SKI AREA  -  Massachusetts ,  United States\
+94   CABERFAE  -  Michigan ,  United States\
+95   Calabogie  -  Ontario ,  Canada\
+96   CAMDEN SNOW BOWL  -  Maine ,  United States\
+97   Camelback Mountain Resort  -  Pennsylvania ,  United States\
+98   CAMPGAW MT. SKI AREA  -  New Jersey ,  United States\
+100   CANNON MOUNTAIN  -  New Hampshire ,  United States\
+101   CANNONSBURG SKI AREA  -  Michigan ,  United States\
+102   CASCADE MOUNTAIN SKI & SNOWBOARD AREA  -  Wisconsin ,  United States\
+103   CATALOOCHEE SKI AREA  -  North Carolina ,  United States\
+104   CATAMOUNT SKI AREA  -  New York ,  United States\
+106   Office de Tourisme de Chamonix Mont-Blanc  -  Northern Alps ,  France\
+107   CHESTNUT MOUNTAIN RESORT  -  Illinois ,  United States\
+108   Christie Mountain  -  Wisconsin ,  United States\
+109   CHRISTMAS MOUNTAIN SKI AREA  -  Wisconsin ,  United States\
+111   COCKAIGNE SKI AREA  -  New York ,  United States\
+113   COPPER MOUNTAIN RESORT  -  Colorado ,  United States\
+117   Courchevel Tourisme  -  Northern Alps ,  France\
+119   CRANMORE RESORT  -  New Hampshire ,  United States\
+120   CRESTED BUTTE MOUNTAIN RESORT  -  Colorado ,  United States\
+123   Crystal Mountain  -  Michigan ,  United States\
+124   Crystal Mountain  -  Washington ,  United States\
+127   Cypress Mountain  -  British Columbia ,  Canada\
+128   DARTMOUTH SKIWAY  -  New Hampshire ,  United States\
+129   DEER VALLEY RESORT  -  Utah ,  United States\
+131   DEVIL'S HEAD  -  Wisconsin ,  United States\
+132   DIAMOND PEAK SKI RESORT  -  Nevada ,  United States\
+133   DISCOVERY SKI AREA  -  Montana ,  United States\
+134   DODGE RIDGE SKI AREA  -  California ,  United States\
+135   DONNER SKI RANCH  -  California ,  United States\
+136   Dry Hill  -  New York ,  United States\
+140   Eagle Rock  -  Pennsylvania ,  United States\
+141   EAGLECREST SKI AREA  -  Alaska ,  United States\
+142   Edelweiss  -  Quebec ,  Canada\
+143   ELDORA MOUNTAIN RESORT  -  Colorado ,  United States\
+145   Elk Mountain  -  Pennsylvania ,  United States\
+146   FOUR LAKES VILLAGE SKI AREA  -  British Columbia ,  Canada\
+147   FOUR LAKES   -  Illinois ,  United States\
+152   GIANTS RIDGE GOLF & SKI RESORT  -  Minnesota ,  United States\
+155   GORE MOUNTAIN SKI AREA  -  New York ,  United States\
+156   Grand Geneva  -  Wisconsin ,  United States\
+157   GRAND TARGHEE RESORT  -  Wyoming ,  United States\
+159   GRAY ROCKS  -  Quebec ,  Canada\
+160   GREAT DIVIDE  -  Montana ,  United States\
+161   GREEK PEAK SKI AREA  -  New York ,  United States\
+163   GROUSE MOUNTAIN  -  British Columbia ,  Canada\
+165   GUNSTOCK SKI AREA  -  New Hampshire ,  United States\
+169   Heavenly Mountain Resort  -  California ,  United States\
+171   HIDDEN VALLEY  -  New Jersey ,  United States\
+172   HIDDEN VALLEY SKI AREA  -  Missouri ,  United States\
+173   HIDDEN VALLEY SKI INC.  -  Pennsylvania ,  United States\
+174   HIGHLANDS OF OLYMPIA  -  Wisconsin ,  United States\
+176   Hogadon Basin  -  Wyoming ,  United States\
+177   Holiday Mountain Ski Area  -  New York ,  United States\
+178   HOLIDAY VALLEY RESORT  -  New York ,  United States\
+179   HOMEWOOD MOUNTAIN RESORT  -  California ,  United States\
+180   HOODOO SKI BOWL  -  Oregon ,  United States\
+181   HOWELSEN HILL SKI AREA  -  Colorado ,  United States\
+184   HUNTER MOUNTAIN  -  New York ,  United States\
+185   HYLAND HILLS SKI & SNOWBOARD AREA  -  Minnesota ,  United States\
+187   Big Snow Resort - Indianhead Mountain  -  Michigan ,  United States\
+189   Innsbrucker Nordkettenbahnen  -  Tyrol ,  Austria\
+190   JACK FROST MOUNTAIN  -  Pennsylvania ,  United States\
+191   JACKSON HOLE MOUNTAIN RESORT  -  Wyoming ,  United States\
+192   JAY PEAK SKI RESORT  -  Vermont ,  United States\
+193   JIMINY PEAK  -  Massachusetts ,  United States\
+194   JUNE MOUNTAIN RESORT  -  California ,  United States\
+195   KELLY CANYON SKI AREA  -  Idaho ,  United States\
+197   KEYSTONE RESORT  -  Colorado ,  United States\
+198   KILLINGTON LTD.  -  Vermont ,  United States\
+199   Kimberley Alpine Resort  -  British Columbia ,  Canada\
+200   KING PINE SKI AREA  -  New Hampshire ,  United States\
+201   KIRKWOOD MOUNTAIN RESORT  -  California ,  United States\
+202   KISSING BRIDGE SKI AREA  -  New York ,  United States\
+203   Bergbahn AG Kitzb\'fchel  -  Tyrol ,  Austria\
+206   Office de Promotion de la Grande Plagne  -  Northern Alps ,  France\
+207   LABRADOR SKI AREA  -  New York ,  United States\
+209   Lee Canyon  -  Nevada ,  United States\
+211   LE MASSIF SKI AREA  -  Quebec ,  Canada\
+212   Lech Z\'fcrs Tourismus GmbH  -  Vorarlberg ,  Austria\
+214   LOCH LOMOND SKI AREA  -  Ontario ,  Canada\
+215   LOOKOUT PASS SKI AREA  -  Idaho ,  United States\
+216   LOON MOUNTAIN SKI AREA  -  New Hampshire ,  United States\
+217   LOST TRAIL SKI AREA  -  Montana ,  United States\
+218   LOST VALLEY SKI AREA  -  Maine ,  United States\
+220   LOVELAND SKI AREA  -  Colorado ,  United States\
+221   LUTSEN MOUNTAIN  -  Minnesota ,  United States\
+222   MAD RIVER GLEN SKI AREA  -  Vermont ,  United States\
+223   MAD RIVER MOUNTAIN  -  Ohio ,  United States\
+224   APT Madonna di Campiglio - Pinzolo - Val Rendena  -  Trentino ,  Italy\
+225   MAGIC MOUNTAIN  -  Vermont ,  United States\
+226   MAGIC MOUNTAIN SKI AREA  -  Idaho ,  United States\
+227   Mammoth Mountain Ski Area  -  California ,  United States\
+228   Maple Ski Ridge  -  New York ,  United States\
+229   MARMOT BASIN  -  Alberta ,  Canada\
+230   MARQUETTE MOUNTAIN  -  Michigan ,  United States\
+232   MASSANUTTEN SKI RESORT  -  Virginia ,  United States\
+233   MAVERICK MOUNTAIN  -  Montana ,  United States\
+234   MCCAULEY MOUNTAIN SKI CENTER  -  New York ,  United States\
+236     -  Vermont ,  United States\
+238   MISSION RIDGE  -  Washington ,  United States\
+239   MOHAWK MOUNTAIN SKI AREA  -  Connecticut ,  United States\
+240   MONARCH SKI AND BOARD AREA  -  Colorado ,  United States\
+241   MONT BLANC  -  Quebec ,  Canada\
+242   MONT ORFORD  -  Quebec ,  Canada\
+243   MONT ST-SAUVEUR/AVILA  -  Quebec ,  Canada\
+245   MONT SUTTON  -  Quebec ,  Canada\
+246   MONTAGE MOUNTAIN  -  Pennsylvania ,  United States\
+247   MONTANA SNOWBOWL  -  Montana ,  United States\
+248   MONT-SAINTE-ANNE  -  Quebec ,  Canada\
+249   MOUNT ABRAM  -  Maine ,  United States\
+252   Mont Cascades  -  Quebec ,  Canada\
+254   MOUNT KATO SKI AREA  -  Minnesota ,  United States\
+255   MOUNT SNOW SKI AREA  -  Vermont ,  United States\
+256   MOUNT SOUTHINGTON SKI AREA  -  Connecticut ,  United States\
+259   MOUNTAIN CREEK  -  New Jersey ,  United States\
+261   MOUNTAIN HIGH SKI AREA  -  California ,  United States\
+264   Mt. Ashland  -  Oregon ,  United States\
+265   Mt. Bachelor  -  Oregon ,  United States\
+266   MT. BAKER SKI AREA  -  Washington ,  United States\
+267   MT. BALDY SKI LIFTS  -  California ,  United States\
+268   Mt. Brighton Ski Area  -  Michigan ,  United States\
+269   MT. CRESCENT SKI AREA  -  Iowa ,  United States\
+272   Mt. Holiday Ski Area  -  Michigan ,  United States\
+273   MT. HOLLY SKI AREA  -  Michigan ,  United States\
+274   MT. HOOD MEADOWS SKI RESORT  -  Oregon ,  United States\
+275   MT. HOOD SKIBOWL  -  Oregon ,  United States\
+276   MT. JEFFERSON  -  Maine ,  United States\
+277   MT. LA CROSSE  -  Wisconsin ,  United States\
+280   Mount Peter Ski Area  -  New York ,  United States\
+282   Mont Ripley  -  Michigan ,  United States\
+283   MT. ROSE SKI AREA  -  Nevada ,  United States\
+284   Mt Seymour  -  British Columbia ,  Canada\
+285   Mt. Shasta Ski Park  -  California ,  United States\
+286   MT. SPOKANE SKI AND BOARD PARK  -  Washington ,  United States\
+287   MT. SUNAPEE SKI AREA  -  New Hampshire ,  United States\
+288   Mount Washington Alpine Resort  -  British Columbia ,  Canada\
+292   NAKISKA  -  Alberta ,  Canada\
+293   NASHOBA VALLEY  -  Massachusetts ,  United States\
+294   NEW HERMON MTN  -  Maine ,  United States\
+295   NORDIC MOUNTAIN SKI AREA  -  Wisconsin ,  United States\
+296   NORDIC VALLEY SKI AREA  -  Utah ,  United States\
+299   NORTHSTAR CALIFORNIA  -  California ,  United States\
+300   NORWAY MOUNTAIN SKI RESORT  -  Michigan ,  United States\
+301   NUB'S NOB SKI AREA  -  Michigan ,  United States\
+303   Ober Gatlinburg  -  Tennessee ,  United States\
+304   OKEMO MOUNTAIN  -  Vermont ,  United States\
+306   OTIS RIDGE SKI AREA  -  Massachusetts ,  United States\
+307   OWL'S HEAD  -  Quebec ,  Canada\
+308   Pakenham  -  Ontario ,  Canada\
+309   PAJARITO MOUNTAIN SKI AREA  -  New Mexico ,  United States\
+312   PANORAMA RESORT  -  British Columbia ,  Canada\
+313   Paoli Peaks  -  Indiana ,  United States\
+314   Park City  -  Utah ,  United States\
+315   PATS PEAK SKI AREA  -  New Hampshire ,  United States\
+316   PEBBLE CREEK SKI AREA  -  Idaho ,  United States\
+317   PEEK `N PEAK RESORT  -  New York ,  United States\
+318   PERFECT NORTH SLOPES  -  Indiana ,  United States\
+319   Pico Mountain   -  Vermont ,  United States\
+321   Pine Mountain  -  Michigan ,  United States\
+323   POMERELLE MOUNTAIN RESORT  -  Idaho ,  United States\
+325   Powder Mountain  -  Utah ,  United States\
+328   POWDER RIDGE SKI AREA  -  Minnesota ,  United States\
+329   POWDERHORN RESORT  -  Colorado ,  United States\
+330   Purgatory  -  Colorado ,  United States\
+333   RAGGED MOUNTAIN SKI AREA  -  New Hampshire ,  United States\
+335   RED LODGE MOUNTAIN  -  Montana ,  United States\
+336   RED MOUNTAIN RESORTS  -  British Columbia ,  Canada\
+337   RED RIVER SKI AREA  -  New Mexico ,  United States\
+338   Granite Peak Ski Area  -  Wisconsin ,  United States\
+342   ROYAL MOUNTAIN  -  New York ,  United States\
+343   SADDLEBACK MT. SKI AREA  -  Maine ,  United States\
+345   SANDIA PEAK SKI AREA  -  New Mexico ,  United States\
+346   SANTA FE SKI AREA  -  New Mexico ,  United States\
+347   SAPPHIRE VALLEY SKI AREA  -  North Carolina ,  United States\
+349   Tourismusverband Schladming  -  Styria ,  Austria\
+350   SCHWEITZER MOUNTAIN RESORT  -  Idaho ,  United States\
+352   SEARCHMONT RESORT  -  Ontario ,  Canada\
+353   Seven Oaks  -  Iowa ,  United States\
+354   SEVEN SPRINGS MOUNTAIN RESORT  -  Pennsylvania ,  United States\
+355   SHANTY CREEK  -  Michigan ,  United States\
+356   SHAWNEE MOUNTAIN SKI AREA  -  Pennsylvania ,  United States\
+357   SHAWNEE PEAK SKI AREA  -  Maine ,  United States\
+359   Showdown Montana  -  Montana ,  United States\
+361   SIERRA SUMMIT SKI AREA  -  California ,  United States\
+362   SIERRA-AT-TAHOE SKI RESORT  -  California ,  United States\
+363   Silver Mountain Ski Resort  -  Idaho ,  United States\
+364   SILVER STAR MOUNTAIN RESORTS LTD.  -  British Columbia ,  Canada\
+365   SILVERCREEK SKI RESORT  -  Colorado ,  United States\
+366   SIPAPU SKI AREA  -  New Mexico ,  United States\
+367   SKI APACHE  -  New Mexico ,  United States\
+368   SKI BANFF/LAKE LOUISE  -  Alberta ,  Canada\
+369   Beech Mountain Resort  -  North Carolina ,  United States\
+370   SKI BRULE  -  Michigan ,  United States\
+372   COOPER  -  Colorado ,  United States\
+373   SKI DENTON  -  Pennsylvania ,  United States\
+374   Camp Fortune  -  Quebec ,  Canada\
+376   SKI LIBERTY  -  Pennsylvania ,  United States\
+379   SKI PLATTEKILL  -  New York ,  United States\
+381   Roundtop Mountain Resort  -  Pennsylvania ,  United States\
+383   SKI SAWMILL MOUNTAIN RESORT  -  Pennsylvania ,  United States\
+385   SKI SNOWSTAR  -  Illinois ,  United States\
+386   SKI SUNDOWN  -  Connecticut ,  United States\
+390   SKI WENTWORTH  -  Nova Scotia ,  Canada\
+391   Windham Mountain  -  New York ,  United States\
+395   SMUGGLERS' NOTCH RESORT  -  Vermont ,  United States\
+398   SNOW RIDGE SKI AREA  -  New York ,  United States\
+399   SNOW SNAKE MOUNTAIN SKI AREA  -  Michigan ,  United States\
+400   SNOW SUMMIT SKI AREA  -  California ,  United States\
+401   SNOW TRAILS SKI AREA  -  Ohio ,  United States\
+402   SNOW VALLEY MOUNTAIN RESORT  -  California ,  United States\
+403   SNOWBASIN SKI AREA  -  Utah ,  United States\
+404   SNOWBIRD SKI & SUMMER RESORT  -  Utah ,  United States\
+406   Snowmass  -  Colorado ,  United States\
+407   SNOWSHOE MOUNTAIN RESORT  -  West Virginia ,  United States\
+410   SNOWY RANGE SKI AREA  -  Wyoming ,  United States\
+411   Soda Springs  -  California ,  United States\
+412   SOLDIER MOUNTAIN SKI AREA  -  Idaho ,  United States\
+413   SOLITUDE MOUNTAIN RESORT  -  Utah ,  United States\
+414   SONG MT. SKI AREA  -  New York ,  United States\
+416   SPIRIT MOUNTAIN  -  Minnesota ,  United States\
+418   SPRING MOUNTAIN SKI AREA  -  Pennsylvania ,  United States\
+419   Palisades Tahoe  -  California ,  United States\
+422   Tourismusverband St. Anton am Arlberg  -  Tyrol ,  Austria\
+423   Mont Sainte-Marie  -  Quebec ,  Canada\
+424   St. Moritz  -  Graubunden ,  Switzerland\
+425   STEAMBOAT SKI & RESORT CORP.  -  Colorado ,  United States\
+426   Tuxedo Ridge SKI CENTER  -  New York ,  United States\
+427   STEVENS PASS  -  Washington ,  United States\
+428   STONEHAM  -  Quebec ,  Canada\
+429   STOWE/MT MOUNTAIN RESORT  -  Vermont ,  United States\
+430   STRATTON MOUNTAIN RESORT  -  Vermont ,  United States\
+432   SUGAR BOWL SKI RESORT  -  California ,  United States\
+434   Sugar Mountain Resort, Inc.  -  North Carolina ,  United States\
+435   SUGARBUSH RESORT  -  Vermont ,  United States\
+436   SUGARLOAF  -  Maine ,  United States\
+437   SUICIDE SIX SKI AREA  -  Vermont ,  United States\
+438   SUN PEAKS RESORT  -  British Columbia ,  Canada\
+440   SUN VALLEY RESORT  -  Idaho ,  United States\
+441   SUNBURST SKI AREA  -  Wisconsin ,  United States\
+442   SUNDANCE  -  Utah ,  United States\
+443   SUNDAY RIVER SKI RESORT  -  Maine ,  United States\
+444   SUNDOWN SKI AREA  -  Iowa ,  United States\
+445   SUNLIGHT MOUNTAIN RESORT  -  Colorado ,  United States\
+446   SUNRISE PARK RESORT  -  Arizona ,  United States\
+448   Sunshine Village  -  Alberta ,  Canada\
+449   SWAIN SKI SNOWBOARD CENTER  -  New York ,  United States\
+450   SWISS VALLEY SKI AREA  -  Michigan ,  United States\
+451   TAHOE DONNER SKI AREA  -  California ,  United States\
+453   TANGLWOOD SKI AREA  -  Pennsylvania ,  United States\
+454   Taos  -  New Mexico ,  United States\
+456   TELLURIDE SKI & GOLF COMPANY  -  Colorado ,  United States\
+458   Tenney Mountain  -  New Hampshire ,  United States\
+459   TERRY PEAK SKI AREA  -  South Dakota ,  United States\
+460   TETON PASS SKI RESORT  -  Montana ,  United States\
+462   CANYONS  -  Utah ,  United States\
+463   Omni Hotels & Resorts  -  Virginia ,  United States\
+464   THE HOMESTEAD SKI AREA  -  Michigan ,  United States\
+465   The Remarkables  -  New Zealand ,  New Zealand\
+466   THE SUMMIT AT SNOQUALMIE  -  Washington ,  United States\
+467   THUNDER RIDGE SKI AREA  -  New York ,  United States\
+469   TIMBER RIDGE  -  Michigan ,  United States\
+470   TIMBERLINE  -  Oregon ,  United States\
+471   Timberline Mountain  -  West Virginia ,  United States\
+472   TITUS MT. SKI CENTER  -  New York ,  United States\
+473   TOGGENBURG SKI & BOARD CENTER  -  New York ,  United States\
+476   Treetops Resort  -  Michigan ,  United States\
+477   TREMBLANT  -  Quebec ,  Canada\
+478   TROLLHAUGEN SKI AREA  -  Wisconsin ,  United States\
+480   TUSSEY MOUNTAIN SKI AREA  -  Pennsylvania ,  United States\
+481   TYROL SKI BASIN  -  Wisconsin ,  United States\
+482   VAIL RESORT  -  Colorado ,  United States\
+483   Office de Tourisme de Val d'Is\'e8re  -  Northern Alps ,  France\
+484   Office de Tourisme de Verbier  -  Valais ,  Switzerland\
+485   VILLA OLIVIA SKI AREA  -  Illinois ,  United States\
+487   Vorlage  -  Quebec ,  Canada\
+488   WACHUSETT MOUNTAIN SKI AREA  -  Massachusetts ,  United States\
+489   WATERVILLE VALLEY  -  New Hampshire ,  United States\
+490   WELCH VILLAGE SKI AREA  -  Minnesota ,  United States\
+491   WEST MOUNTAIN SKI AREA  -  New York ,  United States\
+493   WHISTLER/BLACKCOMB MTN.  -  British Columbia ,  Canada\
+494   WHITE PASS SKI AREA  -  Washington ,  United States\
+495   WHITE PINE SKI AREA  -  Wyoming ,  United States\
+496   WHITECAP  -  Wisconsin ,  United States\
+497   WHITEFACE MOUNTAIN SKI CENTER  -  New York ,  United States\
+498   Whitetail Resort  -  Pennsylvania ,  United States\
+499   Whitewater Ski Resort  -  British Columbia ,  Canada\
+500   WILD MOUNTAIN SKI AREA  -  Minnesota ,  United States\
+501   Wildcat Mountain Ski Area  -  New Hampshire ,  United States\
+502   WILLAMETTE PASS SKI CORP.  -  Oregon ,  United States\
+503   WILLARD MOUNTAIN SKI AREA  -  New York ,  United States\
+506   WILMOT MOUNTAIN  -  Wisconsin ,  United States\
+507   WINTER PARK RESORT  -  Colorado ,  United States\
+508   WINTER PLACE SKI RESORT  -  West Virginia ,  United States\
+509   WINTERGREEN RESORT  -  Virginia ,  United States\
+510   Wisp at Deep Creek Mountain Resort  -  Maryland ,  United States\
+511   WOLF CREEK SKI AREA  -  Colorado ,  United States\
+512   WOLF LAUREL SKI SLOPES  -  North Carolina ,  United States\
+513   WOODBURY SKI AREA  -  Connecticut ,  United States\
+514   WOODS VALLEY SKI AREA  -  New York ,  United States\
+515   YAWGOO VALLEY SKI AREA  -  Rhode Island ,  United States\
+516   Schmittenh\'f6hebahn AG  -  Salzburg ,  Austria\
+517   Zermatt Tourismus  -  Valais ,  Switzerland\
+518   Bad Kleinkirchheimer Bergbahnen, Sport- u. Kuranlagen  -  Carinthia ,  Austria\
+525   Gasteiner Bergbahnen  -  Salzburg ,  Austria\
+526     -  Salzburg ,  Austria\
+527   Tourismusverband Filzmoos  -  Salzburg ,  Austria\
+528   Bergbahnen Flachau GmbH  -  Salzburg ,  Austria\
+529   Gletscherbahnen Kaprun AG  -  Salzburg ,  Austria\
+531   Hochk\'f6nig Bergbahnen GmbH  -  Salzburg ,  Austria\
+534   Skicircus Saalbach Hinterglemm Leogang Fieberbrunn  -  Salzburg ,  Austria\
+536   SkiStar AB  -  Tyrol ,  Austria\
+543   Ski Juwel Alpbachtal Wildsch\'f6nau  -  Tyrol ,  Austria\
+544   Axamer Lizum  -  Tyrol ,  Austria\
+545   SkiWelt Wilder Kaiser Brixental  -  Tyrol ,  Austria\
+546   NA  -  Tyrol ,  Austria\
+547   N/A  -  Tyrol ,  Austria\
+548   Zillertal Gletscherwelt 3000  -  Tyrol ,  Austria\
+550   F\'fcgen Bergbahn GesmbH & Co KG  -  Tyrol ,  Austria\
+558   Tourismusverband Kaunertal  -  Tyrol ,  Austria\
+559   Kirchberg in Tirol  -  Tyrol ,  Austria\
+564   Liftgesellschaften Obergurgl-Hochgurgl  -  Tyrol ,  Austria\
+565   Soelden  -  Tyrol ,  Austria\
+571   \'d6tztal Tourismus  -  Tyrol ,  Austria\
+579   Zillertal Arena  -  Tyrol ,  Austria\
+581   Brandnertal Tourismus  -  Vorarlberg ,  Austria\
+585   Chatel Tourisme  -  Northern Alps ,  France\
+586   Office de Tourisme d'Isola 2000  -  Southern Alps ,  France\
+587   Office de Tourisme d'Avoriaz  -  Northern Alps ,  France\
+590   Office de Tourisme de Morzine  -  Northern Alps ,  France\
+591   Office de Tourisme de Vars  -  Southern Alps ,  France\
+592   Office de Tourisme de l'Alpe d'Huez  -  Northern Alps ,  France\
+593   Office de Tourisme des 2 Alpes  -  Northern Alps ,  France\
+594   Office de Tourisme de St Pierre de Chartreuse  -  Northern Alps ,  France\
+595   OT de Saint Gervais Mont-Blanc  -  Northern Alps ,  France\
+598   M\'e9ribel Tourisme  -  Northern Alps ,  France\
+599   Office de Tourisme de Peisey-Vallandry  -  Northern Alps ,  France\
+600   Tignes D\'e9veloppement  -  Northern Alps ,  France\
+602   Office de Tourisme de Val Thorens  -  Northern Alps ,  France\
+603   Office du tourisme Intercommunal de Serre Chevalier  -  Southern Alps ,  France\
+604   Consorzio Cortina Turismo  -  Veneto ,  Italy\
+605   Consorzio Valle del Monte Bianco  -  Aosta Valley ,  Italy\
+606   Adelboden Tourismus  -  Bernese Oberland ,  Switzerland\
+607   Niederhornbahn AG  -  Bernese Oberland ,  Switzerland\
+608   Grindelwald Tourismus   -  Bernese Oberland ,  Switzerland\
+609   Bergbahnen Destination Gstaad AG  -  Bernese Oberland ,  Switzerland\
+610   Luftseilbahn Kandersteg - Sunnb\'fcel AG  -  Bernese Oberland ,  Switzerland\
+611   Lenk-Simmental Tourismus AG  -  Bernese Oberland ,  Switzerland\
+612   Bergbahnen Meiringen-Hasliberg\'a0AG  -  Bernese Oberland ,  Switzerland\
+613   Schilthornbahn AG  -  Bernese Oberland ,  Switzerland\
+614   Gstaad Saanenland Tourismus  -  Bernese Oberland ,  Switzerland\
+615   Jungfraubahnen Management AG  -  Bernese Oberland ,  Switzerland\
+616   Andermatt-Sedrun Sport AG  -  Graubunden ,  Switzerland\
+617   Engelberg-Titlis Tourismus AG  -  Central Switzerland ,  Switzerland\
+618   Ferien- und Sportzentrum Hoch-Ybrig AG  -  Central Switzerland ,  Switzerland\
+619   Rigi Bahnen AG  -  Central Switzerland ,  Switzerland\
+621   Sportbahnen Amden AG  -  Eastern Switzerland ,  Switzerland\
+622   Braunwald-Klausenpass Tourismus AG  -  Eastern Switzerland ,  Switzerland\
+623   Elm Ferienregion  -  Eastern Switzerland ,  Switzerland\
+624   Ferienregion Heidiland, Infostelle Flumserberg  -  Eastern Switzerland ,  Switzerland\
+625   Bergbahnen Malbun AG  -  Liechtenstein ,  Liechtenstein\
+626   Toggenburg Tourismus  -  Eastern Switzerland ,  Switzerland\
+628   Interlaken  -  Bernese Oberland ,  Switzerland\
+629   Arosa Bergbahnen AG  -  Graubunden ,  Switzerland\
+630   Davos Klosters Bergbahnen AG  -  Graubunden ,  Switzerland\
+631   Disentis Tourismus   -  Graubunden ,  Switzerland\
+632   Mountain Vision AG  -  Graubunden ,  Switzerland\
+633   Klosters  -  Graubunden ,  Switzerland\
+634   Tourismusverein Lenzerheide-Valbella   -  Graubunden ,  Switzerland\
+635   Diavolezza Lagalb AG  -  Graubunden ,  Switzerland\
+636   Bergbahnen Samnaun AG  -  Graubunden ,  Switzerland\
+637   San Bernardino Vacanze  -  Graubunden ,  Switzerland\
+638   Savognin Bergbahnen  -  Graubunden ,  Switzerland\
+639   Bergbahnen Scuol AG  -  Graubunden ,  Switzerland\
+640   Tourismus Sedrun-Disentis   -  Graubunden ,  Switzerland\
+641   Corvatsch AG Station Surlej  -  Graubunden ,  Switzerland\
+642   Spl\'fcgen-Rheinwald Tourismus   -  Graubunden ,  Switzerland\
+644   Ch\'e2teau-d'Oex Tourisme  -  Bernese Oberland ,  Switzerland\
+645   Gstaad 3000 AG  -  Bernese Oberland ,  Switzerland\
+646   T\'e9l\'e9 Leysin-Les Mosses-La L\'e9cherette SA  -  Vaud ,  Switzerland\
+647   Office du Tourisme de St-Cergue  -  Jura ,  Switzerland\
+648   Office du Tourisme de Villars  -  Lake Geneva Region ,  Switzerland\
+649   Neuch\'e2tel en Environs  -  Neuchatel ,  Switzerland\
+651   Anz\'e8re Tourisme  -  Valais ,  Switzerland\
+652   Champ\'e9ry Tourisme   -  Valais ,  Switzerland\
+653   Chandolin  -  Valais ,  Switzerland\
+654   Crans-Montana Tourisme  -  Valais ,  Switzerland\
+655   Evol\'e8ne R\'e9gion Tourisme  -  Valais ,  Switzerland\
+656   Touristische Unternehmung Gr\'e4chen AG  -  Valais ,  Switzerland\
+657   Remont\'e9es M\'e9caniques de Grimentz-Zinal SA  -  Valais ,  Switzerland\
+658   Leukerbad Tourismus  -  Valais ,  Switzerland\
+659   T\'e9l\'e9morgins-Champoussin SA   -  Valais ,  Switzerland\
+660   Nendaz Tourisme  -  Valais ,  Switzerland\
+661   Saastal Bergbahnen AG  -  Valais ,  Switzerland\
+663   Thyon-R\'e9gion Tourisme  -  Valais ,  Switzerland\
+666   Office du Tourisme   -  Valais ,  Switzerland\
+668   Tiroler Zugspitz Arena  -  Tyrol ,  Austria\
+674   Bergbahnen Silvretta Galt\'fcr Ges.m.b.H. & Co. KG  -  Tyrol ,  Austria\
+675   Zillertaler Gletscherbahn GmbH & Co KG  -  Tyrol ,  Austria\
+676   Skiliftgesellschaft Hochf\'fcgen GmbH  -  Tyrol ,  Austria\
+677   Tourismusverband Paznaun - Ischgl  -  Tyrol ,  Austria\
+678   Hochzeiger Bergbahnen Pitztal AG   -  Tyrol ,  Austria\
+679   Bergbahnen Kappl AG & Co KG  -  Tyrol ,  Austria\
+682   Unterberghornbahnen GmbH & Co.KG.  -  Tyrol ,  Austria\
+683   Lienzer Bergbahnen  -  Tyrol ,  Austria\
+685   Mayrhofner Bergbahnen AG  -  Tyrol ,  Austria\
+686   Nauders Tourismus  -  Tyrol ,  Austria\
+688   Gerlos - Zillertal Arena  -  Tyrol ,  Austria\
+689   Patscherkofelbahnen Ges.m.b.H & Co. KG.  -  Tyrol ,  Austria\
+690   Karwendel Bergbahn Achensee Berglift  -  Tyrol ,  Austria\
+691   Pitztaler Gletscherbahn GmbH&CoKG  -  Tyrol ,  Austria\
+692   Hochalmlifte Christlum & Rofanlifte  -  Tyrol ,  Austria\
+693   Skiwelt Wilder Kaiser Brixental  -  Tyrol ,  Austria\
+695   Serfaus-Fiss-Ladis Information  -  Tyrol ,  Austria\
+696   SkiWelt Wilder Kaiser - Brixental  -  Tyrol ,  Austria\
+700   Information Stubaier Gletscher  -  Tyrol ,  Austria\
+701   Bergbahnen Steinplatte  -  Tyrol ,  Austria\
+702   Skiwelt Wilder Kaiser Brixental  -  Tyrol ,  Austria\
+703   Tourismusinformation Alpbachtal  -  Tyrol ,  Austria\
+705   Gasteinertal Tourismus GmbH  -  Salzburg ,  Austria\
+709   Gai\'dfauer Bergbahn GmbH  -  Salzburg ,  Austria\
+710   Bruck an der Grossglocknerstra\'dfe  -  Salzburg ,  Austria\
+712   Leoganger Bergbahnen GmbH  -  Salzburg ,  Austria\
+714   M\'fchlbach am Hochk\'f6nig  -  Salzburg ,  Austria\
+715   Bergbahnen Werfenweng GmbH   -  Salzburg ,  Austria\
+716   Tourismusverband Obertauern  -  Salzburg ,  Austria\
+719   Tauplitzer Fremdenverkehrsgesellschaft m.b.H.  -  Styria ,  Austria\
+721   Wagrain  -  Salzburg ,  Austria\
+722   Liftgesellschaft Zauchensee  -  Salzburg ,  Austria\
+725   Klippitzt\'f6rl Touristik GesnbR  -  Carinthia ,  Austria\
+726   Tatry mountain resorts  -  Carinthia ,  Austria\
+727   Nassfeld-Pressegger See  -  Carinthia ,  Austria\
+728   Dobratsch - Villach  -  Carinthia ,  Austria\
+730   Skiregion Ramsau am Dachstein  -  Styria ,  Austria\
+731   Reiteralm Bergbahnen GmbH & Co.KG  -  Styria ,  Austria\
+733   Tourismusverein Turracher H\'f6he  -  Styria ,  Austria\
+735   Nova  -  Vorarlberg ,  Austria\
+736   Klostertaler Bergbahnen GmbH & Co KG  -  Vorarlberg ,  Austria\
+737   Hinterstoder-Wurzeralm Bergbahnen AG  -  Upper Austria ,  Austria\
+738   Cerro Catedral  -  Argentina ,  Argentina\
+739   Caviahue  -  Argentina ,  Argentina\
+740   Chapelco  -  Argentina ,  Argentina\
+742   Las Le\'f1as  -  Argentina ,  Argentina\
+743   Charlotte Pass  -  Australia ,  Australia\
+744   Perisher Blue Pty Limited  -  Australia ,  Australia\
+745   Selwyn Snowfields  -  Australia ,  Australia\
+746   Thredbo  -  Australia ,  Australia\
+747   Falls Creek Alpine Resort  -  Australia ,  Australia\
+749   Mt. Baw Baw Alpine Resort  -  Australia ,  Australia\
+750   Mt. Buffalo  -  Australia ,  Australia\
+751   Mt. Buller  -  Australia ,  Australia\
+752   Mt. Hotham  -  Australia ,  Australia\
+754   El Colorado  -  Chile ,  Chile\
+755   La Parva  -  Chile ,  Chile\
+756   Portillo  -  Chile ,  Chile\
+757   Nevados de Chillan  -  Chile ,  Chile\
+758   Valle Nevado  -  Chile ,  Chile\
+759   Volcan Villarrica Ski Center  -  Chile ,  Chile\
+760   Broken River Ski Area  -  New Zealand ,  New Zealand\
+761   Craigieburn Valley Ski Area  -  New Zealand ,  New Zealand\
+762   Hanmer Springs Ski Area  -  New Zealand ,  New Zealand\
+763   Mt. Cheeseman Ski Resort  -  New Zealand ,  New Zealand\
+764   Mt. Hutt Ski Arae  -  New Zealand ,  New Zealand\
+765   Mt. Lyford Ski Area & Village  -  New Zealand ,  New Zealand\
+766   Mt. Olympus  -  New Zealand ,  New Zealand\
+767   Mt. Potts Backcountry  -  Canterbury ,  New Zealand\
+768   Porters  -  New Zealand ,  New Zealand\
+769   Temple Basin  -  New Zealand ,  New Zealand\
+770   Manganui Ski Field  -  New Zealand ,  New Zealand\
+771   Tukino Mountain Clubs Association  -  New Zealand ,  New Zealand\
+772   Turoa  -  New Zealand ,  New Zealand\
+773   Whakapapa at Mount Ruapehu  -  New Zealand ,  New Zealand\
+774   Coronet Peak  -  New Zealand ,  New Zealand\
+776   Mount Dobson Ski Area  -  New Zealand ,  New Zealand\
+777   Ohau Snow Fields and Lake Ohau Lodge  -  New Zealand ,  New Zealand\
+778   Mt. Robert, Nelson Ski Club  -  New Zealand ,  New Zealand\
+779   Rainbow Ski Area  -  New Zealand ,  New Zealand\
+780   Cardrona Alpine Resort  -  New Zealand ,  New Zealand\
+781   Treble Cone  -  New Zealand ,  New Zealand\
+782   Waiorau Snow Farm  -  New Zealand ,  New Zealand\
+783   Lynx Ski Vacations  -  Colorado ,  United States\
+784   Daman-Nelson Travel  -  California ,  United States\
+785     -  Wisconsin ,  United States\
+786     -  Colorado ,  United States\
+787     -  Colorado ,  United States\
+788     -  Maryland ,  United States\
+789   Resorts of the Canadian Rockies  -  Alberta ,  Canada\
+790     -  Colorado ,  United States\
+791     -  Colorado ,  United States\
+792   Moguls Mountain Trravel  -  Colorado ,  United States\
+793     -  United States ,  United States\
+794     -  Pennsylvania ,  United States\
+799     -  Colorado ,  United States\
+801   Canaan Valley Resort & Conference Center  -  West Virginia ,  United States\
+802   Ski Big 3 - Mt. Norquay  -  Alberta ,  Canada\
+803     -  New York ,  United States\
+804   Alpental  -  Washington ,  United States\
+805     -  Montana ,  United States\
+901   Enchanted Forest  -  New Mexico ,  United States\
+978   Horseshoe Resort  -  Ontario ,  Canada\
+983   R\'e9serve faunique des Laurentides  -  Quebec ,  Canada}
